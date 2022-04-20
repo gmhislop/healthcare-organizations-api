@@ -1,0 +1,26 @@
+{
+    "Bookings": [
+        {
+        "bookingId": 1,
+        "jobTitleName":"Helpende",
+        "department":["NOORD", "ZUID", "WEST", "OOST"]    
+        
+    },
+    {
+        "bookingId": 2,
+        "jobTitleName":"Helpende Plus",
+        "department":["NOORD", "ZUID", "WEST", "OOST"]
+        
+    },
+    {
+        "bookingId": 3,
+        "jobTitleName":"Verzorgende IG",
+        "department":["NOORD", "ZUID", "WEST", "OOST"]
+    },
+    {
+        "bookingId": 4,
+        "jobTitleName":"Verpleegkundige",
+        "department":["NOORD", "ZUID", "WEST", "OOST"]
+    }
+]
+}
