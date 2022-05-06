@@ -18,21 +18,21 @@
     {
         "bookingId": 3,
         "jobTitleName":"Verzorgende IG",
-        "department":"Afdeling 1.3" 
+        "department":"Afdeling 1.3", 
         "time":"07:00 - 14:30",
         "date":"4 oktober 2022"  
     },
     {
         "bookingId": 4,
         "jobTitleName":"Verpleegkundige",
-        "department":"Afdeling 1.4" 
+        "department":"Afdeling 1.4", 
         "time":"07:00 - 14:30",
         "date":"5 oktober 2022"  
     },
     {
         "bookingId": 5,
         "jobTitleName":"Helpende Plus",
-        "department":"Afdeling 1.5"
+        "department":"Afdeling 1.5",
         "time":"07:00 - 11:00",
         "date":"6 oktober 2022"  
         
@@ -40,21 +40,21 @@
     {
         "bookingId": 6,
         "jobTitleName":"Verzorgende IG",
-        "department":"Afdeling 1.6"
+        "department":"Afdeling 1.6",
         "time":"14:30 - 23:00",
         "date":"6 oktober 2022"  
     },
     {
         "bookingId": 7,
         "jobTitleName":"Verpleegkundige",
-        "department":"Afdeling 1.7"
+        "department":"Afdeling 1.7",
         "time":"07:00 - 14:30",
         "date":"1 oktober 2022"  
     },
     {
         "bookingId": 8,
         "jobTitleName":"Helpende Plus",
-        "department":"Afdeling 1.8"
+        "department":"Afdeling 1.8",
         "time":"07:00 - 14:30",
         "date":"3 oktober 2022"  
         
@@ -62,21 +62,21 @@
     {
         "bookingId": 9,
         "jobTitleName":"Verzorgende IG",
-        "department":"Afdeling 1.9"
+        "department":"Afdeling 1.9",
         "time":"07:00 - 14:30",
         "date":"1 oktober 2022"  
     },
     {
         "bookingId": 10,
         "jobTitleName":"Verpleegkundige",
-        "department":"Afdeling 1.10"
+        "department":"Afdeling 1.10",
         "time":"14:30 - 23:00",
         "date":"1 oktober 2022"  
     },
     {
         "bookingId": 11,
         "jobTitleName":"Helpende Plus",
-        "department":"Afdeling 1.11"
+        "department":"Afdeling 1.11",
         "time":"07:00 - 14:30",
         "date":"6 oktober 2022"  
         
@@ -84,21 +84,21 @@
     {
         "bookingId": 12,
         "jobTitleName":"Verzorgende IG",
-        "department":["Afdeling 1.12"
+        "department":["Afdeling 1.12",
         "time":"14:30 - 23:00",
         "date":"1 oktober 2022"                
     },
     {
         "bookingId": 13,
         "jobTitleName":"Verpleegkundige",
-        "department":"Afdeling 1.13"
+        "department":"Afdeling 1.13",
         "time":"07:00 - 14:30",
         "date":"5 oktober 2022"  
     },
     {
         "bookingId": 14,
         "jobTitleName":"Helpende Plus",
-        "department":"Afdeling 1.14"
+        "department":"Afdeling 1.14",
         "time":"14:30 - 23:00",
         "date":"7 oktober 2022"  
         
@@ -106,8 +106,8 @@
     {
         "bookingId": 15,
         "jobTitleName":"Verzorgende IG",
-        "department":"Afdeling 1.15"
-        "time":"14:30 - 23:00",,
+        "department":"Afdeling 1.15",
+        "time":"14:30 - 23:00",
         "date":"7 oktober 2022"  
     }
 ]
