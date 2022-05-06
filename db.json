@@ -10,8 +10,8 @@
     {
         "bookingId": 2,
         "jobTitleName":"Helpende Plus",
-        "department":"Afdeling 1.2"  
-        "time":"07:00 - 14:30",
+        "department":"Afdeling 1.2",  
+        "time":"07:00 - 11:00",
         "date":"2 oktober 2022"  
         
     },
@@ -84,7 +84,7 @@
     {
         "bookingId": 12,
         "jobTitleName":"Verzorgende IG",
-        "department":["Afdeling 1.12",
+        "department":"Afdeling 1.12",
         "time":"14:30 - 23:00",
         "date":"1 oktober 2022"                
     },
